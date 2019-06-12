@@ -1,6 +1,7 @@
 p {
   color: red;
 }
-p {
-  font: old-style;
-}
+@font-face {
+  font-family: myFirstFont;
+  src: url(sansation_bold.woff);
+  font-weight: bold;
