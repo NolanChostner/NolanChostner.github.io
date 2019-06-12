@@ -1,8 +1,6 @@
 p {
   color: red;
 }
-@font-face {
-  font-family: <p>;
-  src: url(sansation_bold.woff);
-  font-weight: bold;
+p {
+  weight: bold;
 }
