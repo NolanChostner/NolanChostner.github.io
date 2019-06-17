@@ -1,7 +1,7 @@
 body {    
     background-color: gray;
     color: white;
-	text-align: right;
+	text-align: left;
 }   
 #content-contact {  
       text-align: center;
@@ -23,5 +23,5 @@ h4  {
 }
 li {
 	font-size: 18px;
-	text-align: right;
+	text-align: left;
 }
