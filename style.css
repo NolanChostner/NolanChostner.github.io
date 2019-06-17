@@ -1,7 +1,9 @@
 body {    
     background-color: gray;
     color: white;
-	text-align: left;
+	margin-top: 20px;
+	margin-left: 200px;
+	margin-right: 200px
 }   
 #content-contact {  
       text-align: center;
