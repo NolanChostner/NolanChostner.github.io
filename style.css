@@ -19,3 +19,7 @@ h3 {
 h4  {
     letter-spacing: 5px;
 }
+li {
+	font-size: 18px;
+	text-align: left;
+}
