@@ -15,17 +15,17 @@ h1 {
 h2 {
 	font-size: 25px;
 	margin-bottom: -8px;
-	text-align: center;
+	text-align: left;
 }
 h3 {
     letter-spacing: 5px;
-	text-align: center;
+	text-align: left;
 }
 h4  {
     letter-spacing: 5px;
-	text-align: center;
+	text-align: left;
 }
 li {
 	font-size: 18px;
-	text-align: center;
+	text-align: left;
 }
