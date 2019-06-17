@@ -19,9 +19,11 @@ h2 {
 }
 h3 {
     letter-spacing: 5px;
+	text-align: center;
 }
 h4  {
     letter-spacing: 5px;
+	text-align: center;
 }
 li {
 	font-size: 18px;
