@@ -4,6 +4,10 @@ body {
 }   
 #content-contact {  
       text-align: center;
+}   
+h1 {
+    font-size: 64px;
+	margin-bottom: -25px;
 }
 h3 {
     letter-spacing: 5px;
