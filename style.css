@@ -1,5 +1,7 @@
 body {    
     background-color: gray;
     color: white;
-    text-align: center;
+}   
+#content-contac {  
+      text-align: center;
 }
